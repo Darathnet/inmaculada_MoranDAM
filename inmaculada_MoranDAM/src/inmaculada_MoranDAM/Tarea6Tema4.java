@@ -5,5 +5,4 @@ public class Tarea6Tema4 {
 	// TODO Auto-generated method stub
 	System.out.println("Hola Inmaculada");
 	}
-	
 }
